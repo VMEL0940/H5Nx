@@ -1,0 +1,27 @@
+Type,Ligand,Title,LigResidue,LigAtom,RecResidue,RecAtom,Dist,Angle
+HAccep nn,1,RBS_23_4K63 - prepared,I:2(GAL),11( O6 ),A:205(ARG),2681(HH12),2.228,105.8
+HAccep cn,1,RBS_23_4K63 - prepared,I:2(GAL),11( O6 ),A:205(ARG),2683(HH22),3.055,94.8
+HAccep nn,1,RBS_23_4K63 - prepared,I:3(SIA),24( O1A),A:149(SER),2254( H  ),1.939,115.3
+HAccep nn,1,RBS_23_4K63 - prepared,I:3(SIA),24( O1A),A:157(SER),2304( HG ),3.826,152.7
+HAccep nc,1,RBS_23_4K63 - prepared,I:3(SIA),25( O1B),A:148(SER),2253( HG ),1.929,129.4
+HAccep nc,1,RBS_23_4K63 - prepared,I:3(SIA),25( O1B),A:150(ALA),2259( H  ),3.796,111.4
+HAccep nn,1,RBS_23_4K63 - prepared,I:3(SIA),30( O9 ),A:195(HIE),3302( HE2),2.236,103.1
+HDonor nn,1,RBS_23_4K63 - prepared,I:2(GAL),41( HO4),A:238(GLN),1331( OE1),2.145,148.0
+HDonor nn,1,RBS_23_4K63 - prepared,I:3(SIA),55( HN5),A:145(SER),592( O  ),3.661,146.0
+HDonor nn,1,RBS_23_4K63 - prepared,I:3(SIA),55( HN5),A:147(VAL),602( O  ),2.085,143.5
+HDonor nn,1,RBS_23_4K63 - prepared,I:3(SIA),58( HO8),A:107(TYR),280( OH ),1.827,113.4
+HDonor nn,1,RBS_23_4K63 - prepared,I:3(SIA),59( HO9),A:198(ASN),1020( OD1),3.210,171.3
+HDonor nn,1,RBS_23_4K63 - prepared,I:3(SIA),59( HO9),A:202(GLU),1047( OE1),2.069,109.9
+HAccep nn,2,RBS_26_4K64 - prepared,I:1(GAL),9( O3 ),A:240(GLY),2958( H  ),3.695,115.4
+HAccep nn,2,RBS_26_4K64 - prepared,I:1(GAL),10( O4 ),A:205(ARG),2681(HH12),3.371,116.2
+HAccep nn,2,RBS_26_4K64 - prepared,I:2(SIA),25( O1A),A:148(SER),2253( HG ),1.999,126.3
+HAccep nn,2,RBS_26_4K64 - prepared,I:2(SIA),25( O1A),A:150(ALA),2259( H  ),3.873,111.2
+HAccep nc,2,RBS_26_4K64 - prepared,I:2(SIA),26( O1B),A:149(SER),2254( H  ),1.970,118.3
+HAccep nc,2,RBS_26_4K64 - prepared,I:2(SIA),26( O1B),A:157(SER),2304( HG ),3.794,162.7
+HAccep nn,2,RBS_26_4K64 - prepared,I:2(SIA),31( O9 ),A:195(HIE),3302( HE2),2.109,104.9
+HDonor cn,2,RBS_26_4K64 - prepared,I:1(GAL),41( HO2),A:202(GLU),1048( OE2),3.756,135.1
+HDonor cn,2,RBS_26_4K64 - prepared,I:1(GAL),42( HO3),A:202(GLU),1048( OE2),2.257,105.9
+HDonor nn,2,RBS_26_4K64 - prepared,I:2(SIA),56( HN5),A:147(VAL),602( O  ),2.111,146.2
+HDonor nn,2,RBS_26_4K64 - prepared,I:2(SIA),57( HO4),A:145(SER),592( O  ),3.771,159.0
+HDonor nn,2,RBS_26_4K64 - prepared,I:2(SIA),59( HO8),A:107(TYR),280( OH ),1.766,109.5
+HDonor nn,2,RBS_26_4K64 - prepared,I:2(SIA),60( HO9),A:198(ASN),1020( OD1),3.372,164.1
