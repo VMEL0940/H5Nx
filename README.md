@@ -10,3 +10,17 @@ This approach supports real-time viral monitoring and public health responses by
 - Binding affinity of 2-3Sia may correlate with viral fitness.
 - 2-6Sia affinity is higher in mammalian strains, indicating zoonotic potential.
 - Structural modeling from a single sequence allows for rapid surveillance insights.
+
+## Citing this work
+
+**Authors:**  
+Sangyi Lee¹, Seunghye Cho¹, Hyunbeen Kim¹, Kyuyoung Lee¹, Atanas V. Demirev², Sejik Park¹, Philippe Lemey²*, Jin Il Kim¹³⁴*  
+
+**Affiliations:**  
+¹ Department of Microbiology, Institute for Viral Diseases, Korea University College of Medicine, Seoul, Republic of Korea  
+² Department of Microbiology, Immunology, and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium  
+³ Vaccine Innovation Center, Korea University College of Medicine, Seoul, Republic of Korea  
+⁴ Biosafety Center, Korea University College of Medicine, Seoul, Republic of Korea  
+
+\* These authors contributed equally to this work.  
+**Corresponding Author:** Jin Il Kim ([jinil_kim@korea.ac.kr](mailto:jinil_kim@korea.ac.kr))  
