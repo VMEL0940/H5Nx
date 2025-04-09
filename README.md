@@ -17,13 +17,17 @@ This approach supports real-time viral monitoring and public health responses by
 ## Citing this work
 
 **Authors:**  
-Sangyi Lee¹, Seunghye Cho¹, Hyunbeen Kim¹, Kyuyoung Lee¹, Atanas V. Demirev², Sejik Park¹, Philippe Lemey²*, Jin Il Kim¹³⁴*  
+Sangyi Lee,a# Seunghye Cho,a# Kyuyoung Lee,a# Hyunbeen Kim,a Sejik Park,a Woojin Shin,a Soyoung Lee,a Atanas V. Demirev,a Sehee Park,a,b Junhyung Cho,b Joo-Yeon Lee,b Eun-Kyoung Lee,c Youn-Jeong Lee,c Sae Am Song,d Kyung Ran Jun,d Man-Seong Park,a,e,f Philippe Lemey,g* Jin Il Kima,e,f*
+
 
 **Affiliations:**  
-¹ Department of Microbiology, Institute for Viral Diseases, Korea University College of Medicine, Seoul, Republic of Korea  
-² Department of Microbiology, Immunology, and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium  
-³ Vaccine Innovation Center, Korea University College of Medicine, Seoul, Republic of Korea  
-⁴ Biosafety Center, Korea University College of Medicine, Seoul, Republic of Korea  
+a Department of Microbiology, Institute for Viral Diseases, Korea University College of Medicine, Seoul, Republic of Korea
+b Center for Emerging Virus Research, Korea National Institute of Health, Korea Disease Control and Prevention Agency, Cheongju, Republic of Korea 
+c Avian Influenza Research & Diagnostic Division, Animal and Plant Quarantine Agency, Gimcheon, Republic of Korea
+d Department of Laboratory Medicine, Haeundae Paik Hospital, Inje University College of Medicine
+e Vaccine Innovation Center, Korea University College of Medicine, Seoul, Republic of Korea
+f Biosafety Center, Korea University College of Medicine, Seoul, Republic of Korea; g Department of Microbiology, Immunology, and Transplantation, Rega Institute, KU Leuven, Leuven, Belgium
+
 
 \# These authors contributed equally to this work.  
 **Corresponding Author:** Jin Il Kim ([jinil_kim@korea.ac.kr](mailto:jinil_kim@korea.ac.kr))  
